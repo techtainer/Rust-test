@@ -1,0 +1,6 @@
+[package]
+name = "SooRee"
+version = "0.1.0"
+authors = ["techtainer <byungho.ahn@sooree.com>"]
+
+[dependencies]
